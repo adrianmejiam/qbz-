@@ -3,4 +3,5 @@ qobuz-dl
 Flask==0.10.1
 gunicorn==19.3.0
 Django
+django-heroku
 
