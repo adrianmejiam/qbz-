@@ -1,0 +1,6 @@
+CherryPy 
+qobuz-dl
+Flask==0.10.1
+gunicorn==19.3.0
+Django==4.0.4
+
